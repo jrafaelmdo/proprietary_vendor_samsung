@@ -74,7 +74,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_wisol:system/vendor/etc/wifi/nvram_net.txt_wisol \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_wisol_r10:system/vendor/etc/wifi/nvram_net.txt_wisol_r10 \
     vendor/samsung/trlte-common/proprietary/etc/wifi/olsrd.conf:system/vendor/etc/wifi/olsrd.conf \
-    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/vendor/etc/wifi/wpa_supplicant.conf \
     vendor/samsung/trlte-common/proprietary/lib/libagc_max.so:system/vendor/lib/libagc_max.so \
     vendor/samsung/trlte-common/proprietary/lib/H16UL_libTsAe.so:system/vendor/lib/H16UL_libTsAe.so \
     vendor/samsung/trlte-common/proprietary/lib/H16UL_libTsAf.so:system/vendor/lib/H16UL_libTsAf.so \
