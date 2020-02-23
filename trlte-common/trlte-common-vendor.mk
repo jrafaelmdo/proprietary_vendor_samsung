@@ -182,6 +182,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensors.apq8084.so:system/vendor/lib/sensors.vendor.apq8084.so \
+    vendor/samsung/trlte-common/proprietary/lib/libLLVM.so:system/vendor/lib/libLLVM.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAe.so:system/vendor/lib/libTsAe.so \
     vendor/samsung/trlte-common/proprietary/lib/libTsAf.so:system/vendor/lib/libTsAf.so \
     vendor/samsung/trlte-common/proprietary/lib/libTs_J_Accm.so:system/vendor/lib/libTs_J_Accm.so \
